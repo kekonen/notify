@@ -1,4 +1,5 @@
 # Notify
+```
 Shows desktop notifications
 
 USAGE:
@@ -15,3 +16,4 @@ OPTIONS:
 
 ARGS:
     <JUSTBODY>...
+```
