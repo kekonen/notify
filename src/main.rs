@@ -1,4 +1,5 @@
-#[cfg(target_os = "macos")] use notify_rust::Notification;
+// #[cfg(target_os = "macos")] 
+use notify_rust::Notification;
 use clap::{Arg, App};
 
 fn main() {
